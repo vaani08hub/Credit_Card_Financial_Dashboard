@@ -11,10 +11,11 @@ The goal of this project is to analyze weekly credit card transactions to unders
 4. Derive actionable insights from the analysis to support strategic decision-making and operational improvements in financial institutions.
 
 # Tools Used
-1.MySQL Workbench
-2.Power BI
+1. MySQL Workbench
+2. Power BI
 
 
 
 
-# conclusion, this project demonstrates the importance of leveraging data analytics to understand and optimize credit card transactions on a weekly basis and have successfully achieves its goal of providing actionable insights for strategic decision-making in the financial sector.
+# Conclusion
+This project demonstrates the importance of leveraging data analytics to understand and optimize credit card transactions on a weekly basis and have successfully achieves its goal of providing actionable insights for strategic decision-making in the financial sector.
