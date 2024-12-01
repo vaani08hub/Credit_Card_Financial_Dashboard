@@ -1,4 +1,4 @@
-# Credit_Card_Financial_Dashboard
+# Credit Card Financial Dashboard
 Credit card transactions are a critical aspect of financial operations, requiring meticulous analysis to uncover trends, patterns, and actionable insights. This project focuses on analyzing weekly credit card transactions using MySQL for data cleaning and Power BI for visualization.
 
 # Objective
@@ -12,8 +12,24 @@ The goal of this project is to analyze weekly credit card transactions to unders
 
 # Tools Used
 1. MySQL Workbench
-2. Power BI
+2. Power BI Desktop
 
+### Power BI Dashboard
+<table>
+  <tr>
+    <td>DashBoard</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/0061a2d2-5c19-4cf4-ade0-c3b4a5e50a04" width=1000 ></td>
+  </tr>
+<tr>
+    <td>DashBoard</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/8683e03f-ddca-4479-b8a9-77eadbc82d6c" width=1000 ></td>
+  </tr>
+
+ </table>
 
 
 
